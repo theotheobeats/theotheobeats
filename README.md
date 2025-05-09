@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62" width="100%" />
-  
   <h1>👋 I'm Theo</h1>
   <h3>Passionate Developer | Problem Solver | Tech Enthusiast</h3>
 </div>
@@ -17,15 +15,16 @@
 
 ---
 
-## 🚀 About Me
-
-```typescript
-const developer = {
-  name: "Your Name",
-  location: "City, Country",
-  role: "Full Stack Developer",
-  education: "Computer Science Degree",
-  hobbies: ["Coding", "Reading", "Hiking", "Photography"],
-  currentlyLearning: "Machine Learning & AI",
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
-};
+<div>
+  `<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />` 
+  `<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />` 
+  `<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />` 
+  `<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />` 
+  `<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />` 
+  `<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />` 
+  `<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />` 
+  `<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />` 
+  `<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />` 
+  `<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />` 
+  `<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />` 
+</div>
