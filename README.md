@@ -1,9 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhwZTRpMmh5OTg3N3p5ZWt2Zm5rb2RpNzJxeHN1ZmRzbXI1cHM2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Banner" width="100%"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhwZTRpMmh5OTg3N3p5ZWt2Zm5rb2RpNzJxeHN1ZmRzbXI1cHM2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Banner" width="75%"/>
 </p>
 
 ---
+
+<div align="center">
 
 # Hi there, I'm Theo 👋
 
@@ -29,8 +31,10 @@ Check out my website for more about me, my blog, and portfolio:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hono-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-Native-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
@@ -48,14 +52,20 @@ Check out my website for more about me, my blog, and portfolio:
 
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 
-> I love making music and coding at the same time!
+<blockquote>
+I love making music and coding at the same time!
+</blockquote>
 
 ---
 
-> _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+<blockquote>
+_"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+</blockquote>
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+</div>
