@@ -11,9 +11,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuckyArdhika&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Valentinus Theo Prathama&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyArdhika&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentinus Theo Prathama&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
