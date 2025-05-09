@@ -39,9 +39,16 @@ Check out my website for more about me, my blog, and portfolio:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theotheobeats&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theotheobeats&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theotheobeats&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+---
+
+## 🎵 Fun Fact
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+
+> I love making music and coding at the same time!
 
 ---
 
