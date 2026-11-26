@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhwZTRpMmh5OTg3N3p5ZWt2Zm5rb2RpNzJxeHN1ZmRzbXI1cHM2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Banner" width="75%"/>
-</p>
-
 ---
 
 <div align="center">
